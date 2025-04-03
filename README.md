@@ -1,1 +1,1 @@
-# Our journey&ltlaughing&gt
+# Our journey&lt;laughing&gt;
