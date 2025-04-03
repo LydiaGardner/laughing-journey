@@ -3,4 +3,5 @@
 public class Class1
 {
   public int Float { get; init; }
+  public float Int { get; }
 }
