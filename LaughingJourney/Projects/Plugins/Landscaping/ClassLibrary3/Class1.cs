@@ -3,4 +3,5 @@
 public class Class1
 {
   string greeting = "Hello!";
+  public int Float { get; init; }
 }
