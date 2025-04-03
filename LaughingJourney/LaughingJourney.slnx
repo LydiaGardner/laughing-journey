@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Plugins/" />
+  <Folder Name="/Plugins/Core/">
+    <Project Path="Projects/Plugins/Core/ClassLibrary1/ClassLibrary1.csproj" />
+  </Folder>
+  <Folder Name="/Plugins/Landscaping/">
+    <Project Path="Projects/Plugins/Landscaping/ClassLibrary3/ClassLibrary3.csproj" />
+  </Folder>
+  <Folder Name="/Plugins/Mining/">
+    <Project Path="Projects/Plugins/Mining/ClassLibrary2/ClassLibrary2.csproj" />
+  </Folder>
+  <Folder Name="/Plugins/YardShifting/">
+    <Project Path="Projects/Plugins/Yardshifting/ClassLibrary4/ClassLibrary4.csproj" />
+  </Folder>
+  <Project Path="Projects/LaughingJourney/LaughingJourney.csproj" />
+</Solution>
